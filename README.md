@@ -1,1 +1,1 @@
-# obsidian_dark_theme
+# OvAnSe Obsidian Theme
